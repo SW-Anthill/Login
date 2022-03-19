@@ -4,5 +4,5 @@
 |제목|링크|
 |:---|:---|
 |10분 테코톡 : 토니의 인증과 인가|https://www.youtube.com/watch?v=y0xMXlOAfss|
-|comming soon|comming soon|
+|Express와 jwt토큰을 이용한 회원가입/로그인 구현 예시|https://im-developer.tistory.com/169|
 |comming soon |comming soon|
